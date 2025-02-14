@@ -10,6 +10,7 @@
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/puneet23205/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/puneet23205/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
