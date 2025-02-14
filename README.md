@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/puneet23205/LEETCODE/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
+| [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 ## Hash Table
@@ -62,9 +63,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
