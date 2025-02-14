@@ -72,4 +72,12 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/puneet23205/LEETCODE/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
