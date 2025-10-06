@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/puneet23205/LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/puneet23205/LEETCODE/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/puneet23205/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0015-3sum](https://github.com/puneet23205/LEETCODE/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/puneet23205/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/puneet23205/LEETCODE/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
