@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/puneet23205/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/puneet23205/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0036-valid-sudoku](https://github.com/puneet23205/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/puneet23205/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/puneet23205/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/puneet23205/LEETCODE/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/puneet23205/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -116,6 +118,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/puneet23205/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
