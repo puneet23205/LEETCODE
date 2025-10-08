@@ -32,6 +32,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
 | [1677-matrix-diagonal-sum](https://github.com/puneet23205/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0049-group-anagrams](https://github.com/puneet23205/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/puneet23205/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/puneet23205/LEETCODE/tree/master/0242-valid-anagram) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/puneet23205/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/puneet23205/LEETCODE/tree/master/0344-reverse-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String Matching
 |  |
 | ------- |
@@ -210,6 +213,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/puneet23205/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0794-swim-in-rising-water](https://github.com/puneet23205/LEETCODE/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Union Find
 |  |
 | ------- |
