@@ -34,6 +34,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/puneet23205/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0238-product-of-array-except-self](https://github.com/puneet23205/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Linked List
 |  |
 | ------- |
