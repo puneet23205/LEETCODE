@@ -74,6 +74,7 @@
 | [0009-palindrome-number](https://github.com/puneet23205/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/puneet23205/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/puneet23205/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/puneet23205/LEETCODE/tree/master/3336-water-bottles-ii) |
 ## String
@@ -131,6 +132,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/puneet23205/LEETCODE/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/puneet23205/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/puneet23205/LEETCODE/tree/master/1642-water-bottles) |
@@ -233,6 +235,10 @@
 |  |
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/puneet23205/LEETCODE/tree/master/1612-avoid-flood-in-the-city) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/puneet23205/LEETCODE/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
 
 This repo is for tracking all my leetcode questions and my consistency
