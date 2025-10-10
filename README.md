@@ -34,6 +34,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/puneet23205/LEETCODE/tree/master/1677-matrix-diagonal-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/puneet23205/LEETCODE/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/puneet23205/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@
 | [0238-product-of-array-except-self](https://github.com/puneet23205/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/puneet23205/LEETCODE/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/puneet23205/LEETCODE/tree/master/2102-find-the-middle-index-in-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/puneet23205/LEETCODE/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/puneet23205/LEETCODE/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
